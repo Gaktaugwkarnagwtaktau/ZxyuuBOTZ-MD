@@ -417,7 +417,7 @@ module.exports = {
                 if (chat) {
                     if (!('isBanned' in chat)) chat.isBanned = false
                     if (!('welcome' in chat)) chat.welcome = true
-                    if (!('detect' in chat)) chat.detect = false
+                    if (!('detect' in chat)) chat.detect = true
                     if (!('sWelcome' in chat)) chat.sWelcome = ''
                     if (!('sBye' in chat)) chat.sBye = ''
                     if (!('sPromote' in chat)) chat.sPromote = ''
@@ -429,13 +429,13 @@ module.exports = {
                 } else global.db.data.chats[m.chat] = {
                     isBanned: false,
                     welcome: true,
-                    detect: false,
+                    detect: true,
                     sWelcome: '',
                     sBye: '',
                     sPromote: '',
                     sDemote: '',
                     delete: true,
-                    antiLink: false,
+                    antiLink: true,
                     viewonce: false,
                     antiToxic: true,
                 }
@@ -747,12 +747,12 @@ Untuk mematikan fitur ini, ketik
 global.dfail = (type, m, conn) => {
     let msg = {
         rowner: '_*Lu bukan owner gue NGNTD!1!1',
-        owner: '_*Lu siapa owner ajh bukan*_',
+        owner: '_*Lu Bukan owner gua anj!!*_',
         mods: '_*Lu bukan moderator gua ngentd*_',
         premium: '_*BELI PREMIUM DULU BANH*_',
         group: '_*Mikir dikit anj, ini bukan group*_',
         private: '_*CHAT PRIVATE*_',
-        admin: '_*Lu ajh bukan admin akwkwk*_',
+        admin: '_*Lu bukan admin akwkwk*_',
         botAdmin: '*BOT NYA ADMIN DULU TOD*',
         unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Zxyuu.16*',
         restrict: 'Fitur ini di *disable*!'
