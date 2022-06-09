@@ -57,7 +57,7 @@ zero11 = `${rbrb11}`
 zero12 = `${rbrb12}`
 
 let gmbrt = 'https://telegra.ph/file/295a6d5105771875e1797.jpg'
-hsl = `*━━━━━[ Hasil Berburu]━━━━━*
+hsl = `*━━━━━[ Hasil Berburu ]━━━━━*
 
  *🐂 = [ ${zero1} ]*			*🐃 = [ ${zero7} ]*
  *🐅 = [ ${zero2} ]*			 *🐮 = [ ${zero8} ]*
