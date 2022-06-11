@@ -14,7 +14,7 @@ global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Zifabotz-MD'
-global.gc = 'https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179'
+global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
 global.web = 'https://github.com/Botynyakamu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n1 Minggu 7.000\nPermanen 20.000'
 
