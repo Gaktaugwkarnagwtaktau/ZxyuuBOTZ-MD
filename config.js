@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6281322667077', '6281215710461'] 
-global.mods = ['6281215710461'] 
-global.prems = ['6281215710461'] 
+global.owner = ['6285828764046', '6285828764046'] 
+global.mods = ['6285828764046'] 
+global.prems = ['6285828764046'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Romli Suhanda'
-global.numberowner = '6281322667077'
-global.instagram = 'https://instagram.com/Romli II'
-global.github = 'https://github.com/romlisuhanda'
-global.dana = '081322667077'
-global.pulsa = '081224804625'
+global.nameowner = 'Rozi'
+global.numberowner = '6285828764046'
+global.instagram = 'https://instagram.com/zalfapontianak'
+global.github = 'https://github.com/Botynyakamu'
+global.dana = '085828764046'
+global.pulsa = '-'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ZxyuuBOTZ-MD'
+global.namebot = 'Zifabotz-MD'
 global.gc = 'https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179'
-global.web = 'https://github.com/romlisuhanda' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.web = 'https://github.com/Botynyakamu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1 bulan = 10.000\n1 Minggu 7.000\nPermanen 20.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/39d144c866ddd0db1ac1e.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/17edeb9ade79777e1c45d.jpg' //ini juga ganti 
 global.lolkey = 'Danwfrostkey' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'ZxyuuBOTZ-MD'
+global.wm = 'Zifabotz-Md'
 global.watermark = wm
-global.wm2 = '                     「 ZxyuBOTZ-MD 」'
-global.wm3 = '⫹⫺ Zxyuu-𝙼𝙳'
+global.wm2 = '                     「 Zifabotz-MD 」'
+global.wm3 = '⫹⫺ Zifabotz-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/4636b17abdf0837b0efa9.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat ngab..'
-global.packname = '© ZxyuuBOTZ-MD'
-global.author = '⫹⫺ XzyuuNaii'
+global.packname = '© Zifabotz-MD'
+global.author = '⫹⫺ rozi'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
