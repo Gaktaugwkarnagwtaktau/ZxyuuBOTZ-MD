@@ -19,8 +19,8 @@ global.web = 'https://github.com/Botynyakamu' //ubah jadi website lu, bisa link 
 global.price1 = '1 bulan = 10.000\n1 Minggu 7.000\nPermanen 20.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/39d144c866ddd0db1ac1e.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/17edeb9ade79777e1c45d.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/71d93375a4e15db69bb03.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/71d93375a4e15db69bb03.jpg' //ini juga ganti 
 global.lolkey = 'Danwfrostkey' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Zifabotz-Md'
